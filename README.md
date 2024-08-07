@@ -1,7 +1,7 @@
 # Hello Everyone! 
 
-🌷i'm **Aprilia** </a>
-👩🏾‍💻 information engineering student
+🌷i'm **Aprilia**<br/>
+👩🏾‍💻 information engineering student<br/>
 
 ### Github Statistic
 <p align="left">
