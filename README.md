@@ -1,6 +1,5 @@
-### Hi, I'm Aprilia! 
+# Hi, I'm Aprilia!
 
-_________________________________________________________________<br/>
 👩🏾‍💻 Studied at the Catholic university of De La Salle Manado<br/>
 
 ### Github Statistic
