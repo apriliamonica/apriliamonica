@@ -1,5 +1,8 @@
 # Hello Everyone! 
 
+🌷i'm **Aprilia**
+👩🏾‍💻 information engineering student
+
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/penuliscode">
