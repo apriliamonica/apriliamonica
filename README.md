@@ -1,7 +1,7 @@
-# Hello Everyone! 
+### Hi, I'm Aprilia! 
 
-🌷i'm **Aprilia**<br/>
-👩🏾‍💻 information engineering student<br/>
+_________________________________________________________________<br/>
+👩🏾‍💻 Studied at the Catholic university of De La Salle Manado<br/>
 
 ### Github Statistic
 <p align="left">
