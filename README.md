@@ -1,6 +1,6 @@
 ## Hello👋
 
-Nice to meet you, i'm Aptilia <br>
+Nice to meet you, i'm Aprilia <br>
 - 🔭 I’m an informatics student at De La Salle Catholic University <br>
 - 🌱 I’m currently learning Github and stuff, it's fun <br>
 
