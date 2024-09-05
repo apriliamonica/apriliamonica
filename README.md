@@ -1,11 +1,8 @@
 ## Hello👋
-
+# 💫 About Me:
 Nice to meet you, i'm Aprilia <br>
 - 🔭 I’m an informatics student at De La Salle Catholic University <br>
 - 🌱 I’m currently learning Github and stuff, it's fun <br>
-
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
