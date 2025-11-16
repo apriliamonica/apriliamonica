@@ -38,8 +38,3 @@
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=apriliamonica&layout=compact&theme=tokyonight"/>
 </p>
 
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=apriliamonica&icon=5&color=6" />
-</p>
