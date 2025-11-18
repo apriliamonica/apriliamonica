@@ -28,14 +28,6 @@
   <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apriliamonica&layout=compact&langs_count=16&theme=rose_pine&title_color=F4A7C1"/>
 </div>
 
-<br><br>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=apriliamonica&count_private=true&theme=rose_pine&title_color=F4A7C1&icon_color=F4A7C1&ring=F4A7C1&fire=F4A7C1&currStreakLabel=F4A7C1" alt="streak stats" width="60%" />
-</div>
-
-<br><br>
-
 <details align="center">  
   <summary>
       <samp>
