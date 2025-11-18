@@ -1,10 +1,7 @@
 <!-- Header Pink Waving -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=F4A7C1"/>
-
 <br>
-
 <div align="center">
-  
   <samp>
       <br>
       Hi There! I'm <b>Aprilia</b>
@@ -14,7 +11,6 @@
 <div align="center" width="100%">
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=F4A7C1&width=900&size=22&center=true&lines=Welcome+to+My+GitHub!;Informatics+Student+at+De+La+Salle+University;Passionate+About+Tech+and+Design;Exploring+GitHub,+Web+Dev,+and+More!" alt="Typing SVG"/>
 </div>
-
 <br>
 
 <div align="center">
