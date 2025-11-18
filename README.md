@@ -12,11 +12,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=F4A7C1&width=900&size=22&center=true&lines=Welcome+to+My+GitHub!;Informatics+Student+at+De+La+Salle+University;Passionate+About+Tech+and+Design;Exploring+GitHub,+Web+Dev,+and+More!" alt="Typing SVG"/>
 </div>
 <br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Aprilia♡-F4A7C1" />
-</div>
-
 <br><br>
 
 <div align="center">
