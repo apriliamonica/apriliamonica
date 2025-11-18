@@ -5,10 +5,9 @@
 
 <div align="center">
   
-  <b>`エレガント プログラマ`</b>
   <samp>
       <br>
-      Hi There! I'm <b>Aprilia Monica</b>
+      Hi There! I'm <b>Aprilia</b>
   </samp>
 </div>
 
